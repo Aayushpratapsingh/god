@@ -44,7 +44,7 @@ nav ul li a:hover{
   background: #fff;
 }
 nav .menu-btn i{
-  color: #fff;
+  color: rgb(214, 15, 15);
   font-size: 22px;
   cursor: pointer;
   display: none;
