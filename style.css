@@ -5,12 +5,6 @@
   box-sizing: border-box;
   font-family: "Poppins", sans-serif;
 }
-body{
-  display: flex;
-  align-items: none;
-  justify-content: none;
-  min-height: 100vh;
-}
 .wrapper{
   width: 430px;
   background: #fff;
