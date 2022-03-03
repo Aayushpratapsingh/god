@@ -7,8 +7,8 @@
 }
 body{
   display: flex;
-  align-items: center;
-  justify-content: center;
+  align-items: none;
+  justify-content: none;
   min-height: 100vh;
 }
 .wrapper{
